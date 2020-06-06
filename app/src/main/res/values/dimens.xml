@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="smrt">textview_smart</dimen>
+    <dimen name="smartphone">smartphone</dimen>
+    <dimen name="smrtphone">245sp</dimen>
+</resources>

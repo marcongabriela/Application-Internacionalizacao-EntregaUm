@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application-Internacionalizacao-EntregaUm</string>
+
+        <string name="pais">Brasil</string>
+        <string name="prato">Bife-a-cavalo</string>
+    <string name="prato">Bife</string>
+
+</resources>

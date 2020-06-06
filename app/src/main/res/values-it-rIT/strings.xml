@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application-Internacionalizacao-EntregaUm</string>
+    <string name="prato">Manzo</string>
+    <string name="pais">Brasile</string>
+</resources>
